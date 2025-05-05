@@ -120,12 +120,22 @@
 - [Хэндбук Яндекс](https://education.yandex.ru/handbook/python)
 - [DevMan Энциклопедия Python](https://dvmn.org/encyclopedia/)
 - [Real Python. Learning Paths](https://realpython.com/learning-paths/)
-5. Flask
-- 
-6. Jinja
+5. Flask (рекомендуется в первую очередь документация)
+- [Документация Flask. Quickstart](https://flask.palletsprojects.com/en/stable/quickstart/)
+- [Документация Flask. Tutorial](https://flask.palletsprojects.com/en/stable/tutorial/)
+- [Real Python. Flask Part 1](https://realpython.com/python-web-applications-with-flask-part-i/)
+- [Real Python. Flask Part 2](https://realpython.com/python-web-applications-with-flask-part-ii/)
+- [Real Python. Flask Part 3](https://realpython.com/python-web-applications-with-flask-part-iii/)
+6. Jinja (документации фласка достаточно, но)
+- [Руководство для начинающих по Jinja2](https://proglib.io/p/rukovodstvo-dlya-nachinayushchih-po-shablonam-jinja-v-flask-2022-09-05)
 7. Git
+- Виталий Сергеевич
 8. Парсинг
+- [Начать можно с этого (Skillbox)](https://skillbox.ru/media/code/parsing-sayta-vmeste-s-python-i-bibliotekoy-beautiful-soup-prostaya-instruktsiya-v-tri-shaga/)
+- На ютубе полно, рекомендую канал Олега Молчанова (хотя там контент устаревший, но всё по делу)
 9. VK API
-10. 
+- [Документация VK](https://dev.vk.com/ru/api/overview)
+- Никаких библиотек не рекомендую - могут воровать ваши ключи, кроме того с телегой разобрались - с вк подобная история
+
 
 
